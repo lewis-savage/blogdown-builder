@@ -1,0 +1,15 @@
+{
+  "name": "blogdown-builder",
+  "version": "1.0.0",
+  "description": "Node module that converts markdown files and blogdown projects into static html/js/css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":  "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
